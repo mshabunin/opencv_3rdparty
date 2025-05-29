@@ -1,11 +1,4 @@
-### OpenCV: Open Source Computer Vision Library
+### Color Names table for OpenCV
 
-This repository contains 3rdparty libraries used by OpenCV.
-
-#### OpenCV Resources
-
-* OpenCV repository: <https://github.com/opencv/opencv>
-* Homepage: <https://opencv.org>
-* Docs: <https://docs.opencv.org>
-* Q&A forum: <https://answers.opencv.org>
-* Issue tracking: <https://github.com/opencv/opencv/issues>
+Prerequisites: OpenCV library (dev version)
+Run `build_and_run.sh` script - it will build an application and generate YAML file with the table.
